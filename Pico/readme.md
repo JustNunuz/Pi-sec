@@ -1,8 +1,8 @@
 # Raspberry Pi Pico W Projects
 
-![Repo Cover Image](/assets/pi.jpeg)
+![Repo Cover Image](assets/pi.jpeg)
 
-This repository is dedicated to my projects on the **Raspberry Pi Pico W**, which I received at PyCon ZA 2024. Each project explores different functionalities of the Pico W, and more projects will be added as I continue experimenting.
+This folder is dedicated to my projects on the **Raspberry Pi Pico W**, which I received at PyCon ZA 2024. Each project explores different functionalities of the Pico W, and more projects will be added as I continue experimenting.
 
 ## Projects
 
